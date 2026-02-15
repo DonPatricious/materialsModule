@@ -1,0 +1,2146 @@
+[
+  {
+    "index":1,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":1,
+    "mat_code":"ST000001",
+    "material_name":"Cement"
+  },
+  {
+    "index":2,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":2,
+    "mat_code":"ST000002",
+    "material_name":"S-1 Sand"
+  },
+  {
+    "index":3,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":3,
+    "mat_code":"ST000003",
+    "material_name":"River Sand"
+  },
+  {
+    "index":4,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":4,
+    "mat_code":"ST000004",
+    "material_name":"Gravel"
+  },
+  {
+    "index":5,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":5,
+    "mat_code":"ST000005",
+    "material_name":"5\" CHB"
+  },
+  {
+    "index":6,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":6,
+    "mat_code":"ST000006",
+    "material_name":"4\" CHB"
+  },
+  {
+    "index":7,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":7,
+    "mat_code":"ST000007",
+    "material_name":"20mm dia"
+  },
+  {
+    "index":8,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":8,
+    "mat_code":"ST000008",
+    "material_name":"16mm dia (G33)"
+  },
+  {
+    "index":9,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":9,
+    "mat_code":"ST000009",
+    "material_name":"12mm dia (G33)"
+  },
+  {
+    "index":10,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":10,
+    "mat_code":"ST000010",
+    "material_name":"10mm dia (G33)"
+  },
+  {
+    "index":11,
+    "cat_index":1,
+    "prefix":"ST",
+    "series":11,
+    "mat_code":"ST000011",
+    "material_name":"GI Wire #16 For Tying"
+  },
+  {
+    "index":12,
+    "cat_index":2,
+    "prefix":"FO",
+    "series":1,
+    "mat_code":"FO000001",
+    "material_name":"1\/2 4\"x8\" Phenolic Board"
+  },
+  {
+    "index":13,
+    "cat_index":2,
+    "prefix":"FO",
+    "series":2,
+    "mat_code":"FO000002",
+    "material_name":"2\"x2\"x10 Lumber"
+  },
+  {
+    "index":14,
+    "cat_index":2,
+    "prefix":"FO",
+    "series":3,
+    "mat_code":"FO000003",
+    "material_name":"2\"x3\"x10\"  Lumber"
+  },
+  {
+    "index":15,
+    "cat_index":2,
+    "prefix":"FO",
+    "series":4,
+    "mat_code":"FO000004",
+    "material_name":"2\" CWN"
+  },
+  {
+    "index":16,
+    "cat_index":2,
+    "prefix":"FO",
+    "series":5,
+    "mat_code":"FO000005",
+    "material_name":"3\" CWN"
+  },
+  {
+    "index":17,
+    "cat_index":2,
+    "prefix":"FO",
+    "series":6,
+    "mat_code":"FO000006",
+    "material_name":"2\" Concrete Nail"
+  },
+  {
+    "index":18,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":1,
+    "mat_code":"PL000001",
+    "material_name":"PVC PIPE S600 2\""
+  },
+  {
+    "index":19,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":2,
+    "mat_code":"PL000002",
+    "material_name":"PVC PIPE S600 3\""
+  },
+  {
+    "index":20,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":3,
+    "mat_code":"PL000003",
+    "material_name":"PVC PIPE S600 4\""
+  },
+  {
+    "index":21,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":4,
+    "mat_code":"PL000004",
+    "material_name":"PVC PIPE S1000 2\""
+  },
+  {
+    "index":22,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":5,
+    "mat_code":"PL000005",
+    "material_name":"PVC PIPE S1000 3\""
+  },
+  {
+    "index":23,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":6,
+    "mat_code":"PL000006",
+    "material_name":"PVC PIPE S1000 4\""
+  },
+  {
+    "index":24,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":7,
+    "mat_code":"PL000007",
+    "material_name":"PVC Elbow 90\u00b0(1\/4 Bend) 2\""
+  },
+  {
+    "index":25,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":8,
+    "mat_code":"PL000008",
+    "material_name":"PVC Elbow 90\u00b0(1\/4 Bend) 3\""
+  },
+  {
+    "index":26,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":9,
+    "mat_code":"PL000009",
+    "material_name":"PVC Elbow 90\u00b0(1\/4 Bend) 4\""
+  },
+  {
+    "index":27,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":10,
+    "mat_code":"PL000010",
+    "material_name":"PVC Elbow 45\u00b0(1\/2 Bend) 2\""
+  },
+  {
+    "index":28,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":11,
+    "mat_code":"PL000011",
+    "material_name":"PVC Elbow 45\u00b0(1\/2 Bend) 3\""
+  },
+  {
+    "index":29,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":12,
+    "mat_code":"PL000012",
+    "material_name":"PVC Elbow 45\u00b0(1\/2 Bend) 4\""
+  },
+  {
+    "index":30,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":13,
+    "mat_code":"PL000013",
+    "material_name":"PVC TEE 2\""
+  },
+  {
+    "index":31,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":14,
+    "mat_code":"PL000014",
+    "material_name":"PVC TEE 3\""
+  },
+  {
+    "index":32,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":15,
+    "mat_code":"PL000015",
+    "material_name":"PVC TEE 4\""
+  },
+  {
+    "index":33,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":16,
+    "mat_code":"PL000016",
+    "material_name":"PVC WYE 2\""
+  },
+  {
+    "index":34,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":17,
+    "mat_code":"PL000017",
+    "material_name":"PVC WYE 3\""
+  },
+  {
+    "index":35,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":18,
+    "mat_code":"PL000018",
+    "material_name":"PVC WYE 4\""
+  },
+  {
+    "index":36,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":19,
+    "mat_code":"PL000019",
+    "material_name":"PVC COUPLING 2\""
+  },
+  {
+    "index":37,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":20,
+    "mat_code":"PL000020",
+    "material_name":"PVC COUPLING 3\""
+  },
+  {
+    "index":38,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":21,
+    "mat_code":"PL000021",
+    "material_name":"PVC COUPLING 4\""
+  },
+  {
+    "index":39,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":22,
+    "mat_code":"PL000022",
+    "material_name":"PVC CLEANOUT 2\""
+  },
+  {
+    "index":40,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":23,
+    "mat_code":"PL000023",
+    "material_name":"PVC CLEANOUT 3\""
+  },
+  {
+    "index":41,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":24,
+    "mat_code":"PL000024",
+    "material_name":"PVC CLEANOUT 4\""
+  },
+  {
+    "index":42,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":25,
+    "mat_code":"PL000025",
+    "material_name":"PVC TEE REDUCER 3 X 2"
+  },
+  {
+    "index":43,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":26,
+    "mat_code":"PL000026",
+    "material_name":"PVC TEE REDUCER 4 X 2"
+  },
+  {
+    "index":44,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":27,
+    "mat_code":"PL000027",
+    "material_name":"PVC TEE REDUCER 4 X 3"
+  },
+  {
+    "index":45,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":28,
+    "mat_code":"PL000028",
+    "material_name":"PVC WYE REDUCER 3 X 2"
+  },
+  {
+    "index":46,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":29,
+    "mat_code":"PL000029",
+    "material_name":"PVC WYE REDUCER 4 X 2"
+  },
+  {
+    "index":47,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":30,
+    "mat_code":"PL000030",
+    "material_name":"PVC WYE REDUCER 4 X 3"
+  },
+  {
+    "index":48,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":31,
+    "mat_code":"PL000031",
+    "material_name":"PVC TRAP 2\""
+  },
+  {
+    "index":49,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":32,
+    "mat_code":"PL000032",
+    "material_name":"PVC BUSHING REDUCER 3 X 2"
+  },
+  {
+    "index":50,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":33,
+    "mat_code":"PL000033",
+    "material_name":"PVC BUSHING REDUCER 4 X 2"
+  },
+  {
+    "index":51,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":34,
+    "mat_code":"PL000034",
+    "material_name":"PVC BUSHING REDUCER 4 X 3"
+  },
+  {
+    "index":52,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":35,
+    "mat_code":"PL000035",
+    "material_name":"PPR pipe \u00bd\" x 13ft   "
+  },
+  {
+    "index":53,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":36,
+    "mat_code":"PL000036",
+    "material_name":"PPR pipe 1\" x 13ft   "
+  },
+  {
+    "index":54,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":37,
+    "mat_code":"PL000037",
+    "material_name":"\u00bd\" PPR elbow 90\u00b0   "
+  },
+  {
+    "index":55,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":38,
+    "mat_code":"PL000038",
+    "material_name":"1\" PPR elbow 90\u00b0   "
+  },
+  {
+    "index":56,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":39,
+    "mat_code":"PL000039",
+    "material_name":"\u00bd\" PPR tee   "
+  },
+  {
+    "index":57,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":40,
+    "mat_code":"PL000040",
+    "material_name":"1\" PPR tee   "
+  },
+  {
+    "index":58,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":41,
+    "mat_code":"PL000041",
+    "material_name":"\u00bd\" PPR coupling   "
+  },
+  {
+    "index":59,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":42,
+    "mat_code":"PL000042",
+    "material_name":"1\" PPR coupling   "
+  },
+  {
+    "index":60,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":43,
+    "mat_code":"PL000043",
+    "material_name":"\u00bd\" PPR end cap   "
+  },
+  {
+    "index":61,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":44,
+    "mat_code":"PL000044",
+    "material_name":"1\" PPR end cap   "
+  },
+  {
+    "index":62,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":45,
+    "mat_code":"PL000045",
+    "material_name":"\u00bd\" PPR elbow 90\u00b0 female thread   "
+  },
+  {
+    "index":63,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":46,
+    "mat_code":"PL000046",
+    "material_name":"1\" PPR elbow 90\u00b0 female thread   "
+  },
+  {
+    "index":64,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":47,
+    "mat_code":"PL000047",
+    "material_name":"\u00bd\" PPR elbow 90\u00b0 male thread   "
+  },
+  {
+    "index":65,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":48,
+    "mat_code":"PL000048",
+    "material_name":"1\" PPR elbow 90\u00b0 male thread   "
+  },
+  {
+    "index":66,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":49,
+    "mat_code":"PL000049",
+    "material_name":"\u00bd\" PPR tee male thread   "
+  },
+  {
+    "index":67,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":50,
+    "mat_code":"PL000050",
+    "material_name":"1\" PPR tee male thread   "
+  },
+  {
+    "index":68,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":51,
+    "mat_code":"PL000051",
+    "material_name":"\u00bd\" PPR tee female thread   "
+  },
+  {
+    "index":69,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":52,
+    "mat_code":"PL000052",
+    "material_name":"1\" PPR tee female thread   "
+  },
+  {
+    "index":70,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":53,
+    "mat_code":"PL000053",
+    "material_name":"\u00bd\" PPR male thread adapter   "
+  },
+  {
+    "index":71,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":54,
+    "mat_code":"PL000054",
+    "material_name":"1\" PPR male thread adapter   "
+  },
+  {
+    "index":72,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":55,
+    "mat_code":"PL000055",
+    "material_name":"\u00bd\" PPR female thread adapter   "
+  },
+  {
+    "index":73,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":56,
+    "mat_code":"PL000056",
+    "material_name":"1\" PPR female thread adapter   "
+  },
+  {
+    "index":74,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":57,
+    "mat_code":"PL000057",
+    "material_name":"PPR tee reducer 1 x \u00bd   "
+  },
+  {
+    "index":75,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":58,
+    "mat_code":"PL000058",
+    "material_name":"PPR tee reducer 1 x \u00be   "
+  },
+  {
+    "index":76,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":59,
+    "mat_code":"PL000059",
+    "material_name":"PPR tee reducer \u00be x \u00bd   "
+  },
+  {
+    "index":77,
+    "cat_index":3,
+    "prefix":"PL",
+    "series":60,
+    "mat_code":"PL000060",
+    "material_name":"UPVC 63mm   "
+  },
+  {
+    "index":78,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":1,
+    "mat_code":"EL000001",
+    "material_name":"Conduit Pipe \u00bd "
+  },
+  {
+    "index":79,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":2,
+    "mat_code":"EL000002",
+    "material_name":"Junction Box "
+  },
+  {
+    "index":80,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":3,
+    "mat_code":"EL000003",
+    "material_name":"Utility Box "
+  },
+  {
+    "index":81,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":4,
+    "mat_code":"EL000004",
+    "material_name":"Solvent Cement 400cc "
+  },
+  {
+    "index":82,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":5,
+    "mat_code":"EL000005",
+    "material_name":"THHN #14 "
+  },
+  {
+    "index":83,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":6,
+    "mat_code":"EL000006",
+    "material_name":"THHN #12 "
+  },
+  {
+    "index":84,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":7,
+    "mat_code":"EL000007",
+    "material_name":"THHN # 10 "
+  },
+  {
+    "index":85,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":8,
+    "mat_code":"EL000008",
+    "material_name":"THHN # 8 "
+  },
+  {
+    "index":86,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":9,
+    "mat_code":"EL000009",
+    "material_name":"Panel Box 14 Branches "
+  },
+  {
+    "index":87,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":10,
+    "mat_code":"EL000010",
+    "material_name":"Breaker 60A "
+  },
+  {
+    "index":88,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":11,
+    "mat_code":"EL000011",
+    "material_name":"Breaker 15A "
+  },
+  {
+    "index":89,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":12,
+    "mat_code":"EL000012",
+    "material_name":"Breaker 20A "
+  },
+  {
+    "index":90,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":13,
+    "mat_code":"EL000013",
+    "material_name":"Breaker 30A "
+  },
+  {
+    "index":91,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":14,
+    "mat_code":"EL000014",
+    "material_name":"Single convenience outlet   "
+  },
+  {
+    "index":92,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":15,
+    "mat_code":"EL000015",
+    "material_name":"Double convenience outlet   "
+  },
+  {
+    "index":93,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":16,
+    "mat_code":"EL000016",
+    "material_name":"Weatherproof outlet   "
+  },
+  {
+    "index":94,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":17,
+    "mat_code":"EL000017",
+    "material_name":"Exhaust fan   "
+  },
+  {
+    "index":95,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":18,
+    "mat_code":"EL000018",
+    "material_name":"Panel board   "
+  },
+  {
+    "index":96,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":19,
+    "mat_code":"EL000019",
+    "material_name":"Single switch   "
+  },
+  {
+    "index":97,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":20,
+    "mat_code":"EL000020",
+    "material_name":"2-gang switch   "
+  },
+  {
+    "index":98,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":21,
+    "mat_code":"EL000021",
+    "material_name":"3-gang switch   "
+  },
+  {
+    "index":99,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":22,
+    "mat_code":"EL000022",
+    "material_name":"3-way switch   "
+  },
+  {
+    "index":100,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":23,
+    "mat_code":"EL000023",
+    "material_name":"Circuit breaker: 200amps   "
+  },
+  {
+    "index":101,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":24,
+    "mat_code":"EL000024",
+    "material_name":"Circuit breaker: 115amps   "
+  },
+  {
+    "index":102,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":25,
+    "mat_code":"EL000025",
+    "material_name":"Circuit breaker: 100amps   "
+  },
+  {
+    "index":103,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":26,
+    "mat_code":"EL000026",
+    "material_name":"Circuit breaker: 30amps   "
+  },
+  {
+    "index":104,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":27,
+    "mat_code":"EL000027",
+    "material_name":"Circuit breaker: 20amps   "
+  },
+  {
+    "index":105,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":28,
+    "mat_code":"EL000028",
+    "material_name":"#12 THHN wire   "
+  },
+  {
+    "index":106,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":29,
+    "mat_code":"EL000029",
+    "material_name":"#14 THHN wire   "
+  },
+  {
+    "index":107,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":30,
+    "mat_code":"EL000030",
+    "material_name":"#8 THHN wire   "
+  },
+  {
+    "index":108,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":31,
+    "mat_code":"EL000031",
+    "material_name":"#10 THHN wire   "
+  },
+  {
+    "index":109,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":32,
+    "mat_code":"EL000032",
+    "material_name":"Utility box   "
+  },
+  {
+    "index":110,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":33,
+    "mat_code":"EL000033",
+    "material_name":"Junction box   "
+  },
+  {
+    "index":111,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":34,
+    "mat_code":"EL000034",
+    "material_name":"3\/4\" flexible hose   "
+  },
+  {
+    "index":112,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":35,
+    "mat_code":"EL000035",
+    "material_name":"1\/2\" PVC conduit   "
+  },
+  {
+    "index":113,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":36,
+    "mat_code":"EL000036",
+    "material_name":"Electrical tape   "
+  },
+  {
+    "index":114,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":37,
+    "mat_code":"EL000037",
+    "material_name":"Butane torch   "
+  },
+  {
+    "index":115,
+    "cat_index":4,
+    "prefix":"EL",
+    "series":38,
+    "mat_code":"EL000038",
+    "material_name":"2-spool service rack   "
+  },
+  {
+    "index":116,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":1,
+    "mat_code":"FN000001",
+    "material_name":"blackscrew wood 3\/4 "
+  },
+  {
+    "index":117,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":2,
+    "mat_code":"FN000002",
+    "material_name":"blackscrew wood 1\" "
+  },
+  {
+    "index":118,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":3,
+    "mat_code":"FN000003",
+    "material_name":"blackscrew wood 1\" 1\/4 "
+  },
+  {
+    "index":119,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":4,
+    "mat_code":"FN000004",
+    "material_name":"blackscrew wood 1\" 1\/2 "
+  },
+  {
+    "index":120,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":5,
+    "mat_code":"FN000005",
+    "material_name":"blackscrew wood 2\" "
+  },
+  {
+    "index":121,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":6,
+    "mat_code":"FN000006",
+    "material_name":"blackscrew wood 3\" "
+  },
+  {
+    "index":122,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":7,
+    "mat_code":"FN000007",
+    "material_name":"blackscrew metal  3\/4 "
+  },
+  {
+    "index":123,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":8,
+    "mat_code":"FN000008",
+    "material_name":"blackscrew metal 1\" "
+  },
+  {
+    "index":124,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":9,
+    "mat_code":"FN000009",
+    "material_name":"blackscrew metal 1\" 1\/4 "
+  },
+  {
+    "index":125,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":10,
+    "mat_code":"FN000010",
+    "material_name":"blackscrew metal  1\" 1\/2 "
+  },
+  {
+    "index":126,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":11,
+    "mat_code":"FN000011",
+    "material_name":"blackscrew metal  2\" "
+  },
+  {
+    "index":127,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":12,
+    "mat_code":"FN000012",
+    "material_name":"blackscrew metal  3\" "
+  },
+  {
+    "index":128,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":13,
+    "mat_code":"FN000013",
+    "material_name":"Drill Bit 1\/8 3mm "
+  },
+  {
+    "index":129,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":14,
+    "mat_code":"FN000014",
+    "material_name":"Drill Bit 3\/32 2.5mm "
+  },
+  {
+    "index":130,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":15,
+    "mat_code":"FN000015",
+    "material_name":"Drill Bit 5\/32 4mm "
+  },
+  {
+    "index":131,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":16,
+    "mat_code":"FN000016",
+    "material_name":"Drill Bit 7\/64 7mm "
+  },
+  {
+    "index":132,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":17,
+    "mat_code":"FN000017",
+    "material_name":"Drill bit 9\/64 9mm "
+  },
+  {
+    "index":133,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":18,
+    "mat_code":"FN000018",
+    "material_name":"Drill Bit 11\/64 4.5mm "
+  },
+  {
+    "index":134,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":19,
+    "mat_code":"FN000019",
+    "material_name":"Drill Bit 3\/16 5mm "
+  },
+  {
+    "index":135,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":20,
+    "mat_code":"FN000020",
+    "material_name":"Drill Bit 1\/4 6.5mm "
+  },
+  {
+    "index":136,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":21,
+    "mat_code":"FN000021",
+    "material_name":"Drill Bit 5\/16 8mm "
+  },
+  {
+    "index":137,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":22,
+    "mat_code":"FN000022",
+    "material_name":"Drill Bit 3\/8 9.5mm "
+  },
+  {
+    "index":138,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":23,
+    "mat_code":"FN000023",
+    "material_name":"Drill Bit 1\/2 13mm "
+  },
+  {
+    "index":139,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":24,
+    "mat_code":"FN000024",
+    "material_name":"Drill Bit 9\/16 14mm "
+  },
+  {
+    "index":140,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":25,
+    "mat_code":"FN000025",
+    "material_name":"Drill Bit 5\/8 16mm "
+  },
+  {
+    "index":141,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":26,
+    "mat_code":"FN000026",
+    "material_name":"Metal Stud 0.5 x 35mm x 2 in x 3m "
+  },
+  {
+    "index":142,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":27,
+    "mat_code":"FN000027",
+    "material_name":"Metal Stud 0.5 x 35mm x 3 in x 3m "
+  },
+  {
+    "index":143,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":28,
+    "mat_code":"FN000028",
+    "material_name":"Metal Stud 0.5 x 35mm x 4 in x 3m "
+  },
+  {
+    "index":144,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":29,
+    "mat_code":"FN000029",
+    "material_name":"Metal Track 0.5 x 35mm x 2 in x 3m "
+  },
+  {
+    "index":145,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":30,
+    "mat_code":"FN000030",
+    "material_name":"Metal Stud 0.5 x 35mm x 3 in x 3m "
+  },
+  {
+    "index":146,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":31,
+    "mat_code":"FN000031",
+    "material_name":"Metal Stud 0.5 x 35mm x 4 in x 3m "
+  },
+  {
+    "index":147,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":32,
+    "mat_code":"FN000032",
+    "material_name":"Metal Furring 45mm x 0.4mm x 5m "
+  },
+  {
+    "index":148,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":33,
+    "mat_code":"FN000033",
+    "material_name":"Carrying Channel 45mm x 0.7mm x 5m "
+  },
+  {
+    "index":149,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":34,
+    "mat_code":"FN000034",
+    "material_name":"Wall Angle 0.4mm x 3m x 10ft "
+  },
+  {
+    "index":150,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":35,
+    "mat_code":"FN000035",
+    "material_name":"Cross Tee 2ft "
+  },
+  {
+    "index":151,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":36,
+    "mat_code":"FN000036",
+    "material_name":"W Clip "
+  },
+  {
+    "index":152,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":37,
+    "mat_code":"FN000037",
+    "material_name":"Ficem Board 1\/8 x 4ft x 8ft x 3.5mm"
+  },
+  {
+    "index":153,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":38,
+    "mat_code":"FN000038",
+    "material_name":"Ficem Board 3\/16 x 4ft x 8ft x 4.5mm"
+  },
+  {
+    "index":154,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":39,
+    "mat_code":"FN000039",
+    "material_name":"Ficem Board 1.4 x 4ft x 8ft  x6mm"
+  },
+  {
+    "index":155,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":40,
+    "mat_code":"FN000040",
+    "material_name":"Ficem Board 3\/8 x 4ft x 8ft x 9mm"
+  },
+  {
+    "index":156,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":41,
+    "mat_code":"FN000041",
+    "material_name":"Ficem Board 1\/2 x 4ft x 8ft x 12mm"
+  },
+  {
+    "index":157,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":42,
+    "mat_code":"FN000042",
+    "material_name":"Pvc Panel "
+  },
+  {
+    "index":158,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":43,
+    "mat_code":"FN000043",
+    "material_name":"Fluted Panel "
+  },
+  {
+    "index":159,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":44,
+    "mat_code":"FN000044",
+    "material_name":"J Clip "
+  },
+  {
+    "index":160,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":45,
+    "mat_code":"FN000045",
+    "material_name":"Drawer Guide  12\" Soft Closing "
+  },
+  {
+    "index":161,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":46,
+    "mat_code":"FN000046",
+    "material_name":"Drawer Guide 14\" Soft Closing "
+  },
+  {
+    "index":162,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":47,
+    "mat_code":"FN000047",
+    "material_name":"Drawer Guide 16\" Soft Closing "
+  },
+  {
+    "index":163,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":48,
+    "mat_code":"FN000048",
+    "material_name":"Drawer Guide 18\" Soft Closing "
+  },
+  {
+    "index":164,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":49,
+    "mat_code":"FN000049",
+    "material_name":"Drawer Guide 20\" Soft Closing "
+  },
+  {
+    "index":165,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":50,
+    "mat_code":"FN000050",
+    "material_name":"Concealed Hinges Hydrolic  1 \/2 \/3  "
+  },
+  {
+    "index":166,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":51,
+    "mat_code":"FN000051",
+    "material_name":"Rugby 300ml  "
+  },
+  {
+    "index":167,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":52,
+    "mat_code":"FN000052",
+    "material_name":"Rugby 4liters "
+  },
+  {
+    "index":168,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":53,
+    "mat_code":"FN000053",
+    "material_name":"Stikwel   liter"
+  },
+  {
+    "index":169,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":54,
+    "mat_code":"FN000054",
+    "material_name":"Stikwel   gal"
+  },
+  {
+    "index":170,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":55,
+    "mat_code":"FN000055",
+    "material_name":"Easy Tite liter"
+  },
+  {
+    "index":171,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":56,
+    "mat_code":"FN000056",
+    "material_name":"Easy Tite gal"
+  },
+  {
+    "index":172,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":57,
+    "mat_code":"FN000057",
+    "material_name":"Solignum liter"
+  },
+  {
+    "index":173,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":58,
+    "mat_code":"FN000058",
+    "material_name":"Solignum gal"
+  },
+  {
+    "index":174,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":59,
+    "mat_code":"FN000059",
+    "material_name":"Finishing Nail 1\""
+  },
+  {
+    "index":175,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":60,
+    "mat_code":"FN000060",
+    "material_name":"Finishing Nail 1\" 1\/2"
+  },
+  {
+    "index":176,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":61,
+    "mat_code":"FN000061",
+    "material_name":"Finishing Nail 2\""
+  },
+  {
+    "index":177,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":62,
+    "mat_code":"FN000062",
+    "material_name":"Finishing Nail 2\" 1\/2"
+  },
+  {
+    "index":178,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":63,
+    "mat_code":"FN000063",
+    "material_name":"Finishing Nail 3\""
+  },
+  {
+    "index":179,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":64,
+    "mat_code":"FN000064",
+    "material_name":"Laminated Marine Board 4ft x 8ft "
+  },
+  {
+    "index":180,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":65,
+    "mat_code":"FN000065",
+    "material_name":"Edge Band "
+  },
+  {
+    "index":181,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":66,
+    "mat_code":"FN000066",
+    "material_name":"Concrete Neutralizer liter"
+  },
+  {
+    "index":182,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":67,
+    "mat_code":"FN000067",
+    "material_name":"Concrete Neutralizer gal"
+  },
+  {
+    "index":183,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":68,
+    "mat_code":"FN000068",
+    "material_name":"Paint Thinner bottle"
+  },
+  {
+    "index":184,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":69,
+    "mat_code":"FN000069",
+    "material_name":"Paint Thinner gal"
+  },
+  {
+    "index":185,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":70,
+    "mat_code":"FN000070",
+    "material_name":"Sanding Sealer bottle "
+  },
+  {
+    "index":186,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":71,
+    "mat_code":"FN000071",
+    "material_name":"Sanding Sealer gal"
+  },
+  {
+    "index":187,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":72,
+    "mat_code":"FN000072",
+    "material_name":"Lacquer Thinner bottle"
+  },
+  {
+    "index":188,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":73,
+    "mat_code":"FN000073",
+    "material_name":"Lacquer Thinner gal"
+  },
+  {
+    "index":189,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":74,
+    "mat_code":"FN000074",
+    "material_name":"Stripsol liter"
+  },
+  {
+    "index":190,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":75,
+    "mat_code":"FN000075",
+    "material_name":"Stripsol gal"
+  },
+  {
+    "index":191,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":76,
+    "mat_code":"FN000076",
+    "material_name":"Gloss Varnish "
+  },
+  {
+    "index":192,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":77,
+    "mat_code":"FN000077",
+    "material_name":"Wood Stain "
+  },
+  {
+    "index":193,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":78,
+    "mat_code":"FN000078",
+    "material_name":"Sanding Paper #80 9in x 11in"
+  },
+  {
+    "index":194,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":79,
+    "mat_code":"FN000079",
+    "material_name":"Sanding Paper #100 9in x 11in"
+  },
+  {
+    "index":195,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":80,
+    "mat_code":"FN000080",
+    "material_name":"Sanding Paper #120 9in x 11in"
+  },
+  {
+    "index":196,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":81,
+    "mat_code":"FN000081",
+    "material_name":"Sanding Paper #150 9in x 11in"
+  },
+  {
+    "index":197,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":82,
+    "mat_code":"FN000082",
+    "material_name":"Sanding Paper #180 9in x 11in"
+  },
+  {
+    "index":198,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":83,
+    "mat_code":"FN000083",
+    "material_name":"Sanding Paper #200 9in x 11in"
+  },
+  {
+    "index":199,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":84,
+    "mat_code":"FN000084",
+    "material_name":"Sanding Paper #240 9in x 11in"
+  },
+  {
+    "index":200,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":85,
+    "mat_code":"FN000085",
+    "material_name":"Sanding Paper #400 9in x 11in"
+  },
+  {
+    "index":201,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":86,
+    "mat_code":"FN000086",
+    "material_name":"Sanding Paper #800 9in x 11in"
+  },
+  {
+    "index":202,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":87,
+    "mat_code":"FN000087",
+    "material_name":"Sanding Paper #1200 9in x 11in"
+  },
+  {
+    "index":203,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":88,
+    "mat_code":"FN000088",
+    "material_name":"Ecofor Wood 1\" x 2\" x 8ft"
+  },
+  {
+    "index":204,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":89,
+    "mat_code":"FN000089",
+    "material_name":"Ecofor Wood 1\" x 4\" x 8ft"
+  },
+  {
+    "index":205,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":90,
+    "mat_code":"FN000090",
+    "material_name":"Ecofor Wood 1\" x 6\" x 8ft"
+  },
+  {
+    "index":206,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":91,
+    "mat_code":"FN000091",
+    "material_name":"Ecofor Wood 2\" x 2\" x 8ft"
+  },
+  {
+    "index":207,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":92,
+    "mat_code":"FN000092",
+    "material_name":"Ecofor Wood 2\" x 3\" x 8ft"
+  },
+  {
+    "index":208,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":93,
+    "mat_code":"FN000093",
+    "material_name":"Ecofor Wood 2\" x 4\" x 8ft"
+  },
+  {
+    "index":209,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":94,
+    "mat_code":"FN000094",
+    "material_name":"Ecofor Wood 2\" x 6\" x 8ft"
+  },
+  {
+    "index":210,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":95,
+    "mat_code":"FN000095",
+    "material_name":"Ecofor Wood 1\" x 2\" x 10ft"
+  },
+  {
+    "index":211,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":96,
+    "mat_code":"FN000096",
+    "material_name":"Ecofor Wood 1\" x 4\" x 10ft"
+  },
+  {
+    "index":212,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":97,
+    "mat_code":"FN000097",
+    "material_name":"Ecofor Wood 1\" x 6\" x 10ft"
+  },
+  {
+    "index":213,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":98,
+    "mat_code":"FN000098",
+    "material_name":"Ecofor Wood 2\" x 2\" x 10ft"
+  },
+  {
+    "index":214,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":99,
+    "mat_code":"FN000099",
+    "material_name":"Ecofor Wood 2\" x 3\" x 10ft"
+  },
+  {
+    "index":215,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":100,
+    "mat_code":"FN000100",
+    "material_name":"Ecofor Wood 2\" x 4\" x 10ft"
+  },
+  {
+    "index":216,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":101,
+    "mat_code":"FN000101",
+    "material_name":"Ecofor Wood 2\" x 6\" x 10ft"
+  },
+  {
+    "index":217,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":102,
+    "mat_code":"FN000102",
+    "material_name":"Ecofor Wood 1\" x 2\" x 12ft"
+  },
+  {
+    "index":218,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":103,
+    "mat_code":"FN000103",
+    "material_name":"Ecofor Wood 1\" x 4\" x 12ft"
+  },
+  {
+    "index":219,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":104,
+    "mat_code":"FN000104",
+    "material_name":"Ecofor Wood 1\" x 6\" x 12ft"
+  },
+  {
+    "index":220,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":105,
+    "mat_code":"FN000105",
+    "material_name":"Ecofor Wood 2\" x 2\" x 12ft"
+  },
+  {
+    "index":221,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":106,
+    "mat_code":"FN000106",
+    "material_name":"Ecofor Wood 2\" x 3\" x 12ft"
+  },
+  {
+    "index":222,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":107,
+    "mat_code":"FN000107",
+    "material_name":"Ecofor Wood 2\" x 4\" x 12ft"
+  },
+  {
+    "index":223,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":108,
+    "mat_code":"FN000108",
+    "material_name":"Ecofor Wood 2\" x 6\" x 12ft"
+  },
+  {
+    "index":224,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":109,
+    "mat_code":"FN000109",
+    "material_name":"Gypsum Board 1\/2 (12mm) x 4ft x 8ft"
+  },
+  {
+    "index":225,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":110,
+    "mat_code":"FN000110",
+    "material_name":"Gypsum Board 3\/8 (9mm)"
+  },
+  {
+    "index":226,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":111,
+    "mat_code":"FN000111",
+    "material_name":"Surface on 4 Sides 1\/2 x 1 x 8ft"
+  },
+  {
+    "index":227,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":112,
+    "mat_code":"FN000112",
+    "material_name":"Surface on 4 Sides 1\/2 x 2 x 8ft"
+  },
+  {
+    "index":228,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":113,
+    "mat_code":"FN000113",
+    "material_name":"Surface on 4 Sides 1 x 1 x 8ft"
+  },
+  {
+    "index":229,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":114,
+    "mat_code":"FN000114",
+    "material_name":"Surface on 4 Sides 1\/2 x 1 x 10ft"
+  },
+  {
+    "index":230,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":115,
+    "mat_code":"FN000115",
+    "material_name":"Surface on 4 Sides 1\/2 x 2 x 10ft"
+  },
+  {
+    "index":231,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":116,
+    "mat_code":"FN000116",
+    "material_name":"Surface on 4 Sides 1 x 1 x 10ft"
+  },
+  {
+    "index":232,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":117,
+    "mat_code":"FN000117",
+    "material_name":"Surface on 4 Sides 1\/2 x 1 x 12ft"
+  },
+  {
+    "index":233,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":118,
+    "mat_code":"FN000118",
+    "material_name":"Surface on 4 Sides 1\/2 x 2 x 12ft"
+  },
+  {
+    "index":234,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":119,
+    "mat_code":"FN000119",
+    "material_name":"Surface on 4 Sides 1 x 1 x 12ft"
+  },
+  {
+    "index":235,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":120,
+    "mat_code":"FN000120",
+    "material_name":"Fulatite liter"
+  },
+  {
+    "index":236,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":121,
+    "mat_code":"FN000121",
+    "material_name":"Fulatite gal"
+  },
+  {
+    "index":237,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":122,
+    "mat_code":"FN000122",
+    "material_name":"Moulded Door 70cm x 210cm x 40mm"
+  },
+  {
+    "index":238,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":123,
+    "mat_code":"FN000123",
+    "material_name":"Moulded Door 80cm x 210cm x 40mm"
+  },
+  {
+    "index":239,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":124,
+    "mat_code":"FN000124",
+    "material_name":"Moulded Door 90cm x 210cm x 40mm"
+  },
+  {
+    "index":240,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":125,
+    "mat_code":"FN000125",
+    "material_name":"Door Hinges 3\" x 3\""
+  },
+  {
+    "index":241,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":126,
+    "mat_code":"FN000126",
+    "material_name":"Door Hinges 4\" x 4\""
+  },
+  {
+    "index":242,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":127,
+    "mat_code":"FN000127",
+    "material_name":"Door Jamb 2 x 4"
+  },
+  {
+    "index":243,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":128,
+    "mat_code":"FN000128",
+    "material_name":"Door Jamb 2 x 5"
+  },
+  {
+    "index":244,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":129,
+    "mat_code":"FN000129",
+    "material_name":"Door Jamb 2 x 6"
+  },
+  {
+    "index":245,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":130,
+    "mat_code":"FN000130",
+    "material_name":"Skimcoat "
+  },
+  {
+    "index":246,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":131,
+    "mat_code":"FN000131",
+    "material_name":"Grout "
+  },
+  {
+    "index":247,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":132,
+    "mat_code":"FN000132",
+    "material_name":"Tile Spacer 2mm "
+  },
+  {
+    "index":248,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":133,
+    "mat_code":"FN000133",
+    "material_name":"Flap Disc 4\" "
+  },
+  {
+    "index":249,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":134,
+    "mat_code":"FN000134",
+    "material_name":"Diamond Disc 4\" "
+  },
+  {
+    "index":250,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":135,
+    "mat_code":"FN000135",
+    "material_name":"Cutting Disc 4\" "
+  },
+  {
+    "index":251,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":136,
+    "mat_code":"FN000136",
+    "material_name":"Marine Plywood 1\/4 x 4ft x 8ft"
+  },
+  {
+    "index":252,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":137,
+    "mat_code":"FN000137",
+    "material_name":"Marine Plywood 1\/8 x 4ft x 8ft"
+  },
+  {
+    "index":253,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":138,
+    "mat_code":"FN000138",
+    "material_name":"Marine Plywood 3\/4 x 4ft x 8ft"
+  },
+  {
+    "index":254,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":139,
+    "mat_code":"FN000139",
+    "material_name":"Electrical Tape "
+  },
+  {
+    "index":255,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":140,
+    "mat_code":"FN000140",
+    "material_name":"Masking Tape 1\""
+  },
+  {
+    "index":256,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":141,
+    "mat_code":"FN000141",
+    "material_name":"Masking Tape 1\/2 \""
+  },
+  {
+    "index":257,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":142,
+    "mat_code":"FN000142",
+    "material_name":"Masking Tape 3\/4\""
+  },
+  {
+    "index":258,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":143,
+    "mat_code":"FN000143",
+    "material_name":"Paint Brush  1\""
+  },
+  {
+    "index":259,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":144,
+    "mat_code":"FN000144",
+    "material_name":"Paint Brush  1 1\/2\""
+  },
+  {
+    "index":260,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":145,
+    "mat_code":"FN000145",
+    "material_name":"Paint Brush  2\""
+  },
+  {
+    "index":261,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":146,
+    "mat_code":"FN000146",
+    "material_name":"Paint Brush  4\""
+  },
+  {
+    "index":262,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":147,
+    "mat_code":"FN000147",
+    "material_name":"Acrytex Prime "
+  },
+  {
+    "index":263,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":148,
+    "mat_code":"FN000148",
+    "material_name":"Flat Latex 3701 "
+  },
+  {
+    "index":264,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":149,
+    "mat_code":"FN000149",
+    "material_name":"Semi Gloss White Latex "
+  },
+  {
+    "index":265,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":150,
+    "mat_code":"FN000150",
+    "material_name":"Wall Putty "
+  },
+  {
+    "index":266,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":151,
+    "mat_code":"FN000151",
+    "material_name":"4\" Baby Roller Foam "
+  },
+  {
+    "index":267,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":152,
+    "mat_code":"FN000152",
+    "material_name":"Mesh Tape 2 Inch "
+  },
+  {
+    "index":268,
+    "cat_index":5,
+    "prefix":"FN",
+    "series":153,
+    "mat_code":"FN000153",
+    "material_name":"Blind Rivet 5\/32  x \u00bd "
+  }
+]

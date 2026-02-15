@@ -1,0 +1,269 @@
+index	cat_index	prefix	series	mat_code	material_name
+1	1	ST	1	ST000001	Cement
+2	1	ST	2	ST000002	S-1 Sand
+3	1	ST	3	ST000003	River Sand
+4	1	ST	4	ST000004	Gravel
+5	1	ST	5	ST000005	"5"" CHB"
+6	1	ST	6	ST000006	"4"" CHB"
+7	1	ST	7	ST000007	20mm dia
+8	1	ST	8	ST000008	16mm dia (G33)
+9	1	ST	9	ST000009	12mm dia (G33)
+10	1	ST	10	ST000010	10mm dia (G33)
+11	1	ST	11	ST000011	GI Wire #16 For Tying
+12	2	FO	1	FO000001	"1/2 4""x8"" Phenolic Board"
+13	2	FO	2	FO000002	"2""x2""x10 Lumber"
+14	2	FO	3	FO000003	"2""x3""x10""  Lumber"
+15	2	FO	4	FO000004	"2"" CWN"
+16	2	FO	5	FO000005	"3"" CWN"
+17	2	FO	6	FO000006	"2"" Concrete Nail"
+18	3	PL	1	PL000001	"PVC PIPE S600 2"""
+19	3	PL	2	PL000002	"PVC PIPE S600 3"""
+20	3	PL	3	PL000003	"PVC PIPE S600 4"""
+21	3	PL	4	PL000004	"PVC PIPE S1000 2"""
+22	3	PL	5	PL000005	"PVC PIPE S1000 3"""
+23	3	PL	6	PL000006	"PVC PIPE S1000 4"""
+24	3	PL	7	PL000007	"PVC Elbow 90°(1/4 Bend) 2"""
+25	3	PL	8	PL000008	"PVC Elbow 90°(1/4 Bend) 3"""
+26	3	PL	9	PL000009	"PVC Elbow 90°(1/4 Bend) 4"""
+27	3	PL	10	PL000010	"PVC Elbow 45°(1/2 Bend) 2"""
+28	3	PL	11	PL000011	"PVC Elbow 45°(1/2 Bend) 3"""
+29	3	PL	12	PL000012	"PVC Elbow 45°(1/2 Bend) 4"""
+30	3	PL	13	PL000013	"PVC TEE 2"""
+31	3	PL	14	PL000014	"PVC TEE 3"""
+32	3	PL	15	PL000015	"PVC TEE 4"""
+33	3	PL	16	PL000016	"PVC WYE 2"""
+34	3	PL	17	PL000017	"PVC WYE 3"""
+35	3	PL	18	PL000018	"PVC WYE 4"""
+36	3	PL	19	PL000019	"PVC COUPLING 2"""
+37	3	PL	20	PL000020	"PVC COUPLING 3"""
+38	3	PL	21	PL000021	"PVC COUPLING 4"""
+39	3	PL	22	PL000022	"PVC CLEANOUT 2"""
+40	3	PL	23	PL000023	"PVC CLEANOUT 3"""
+41	3	PL	24	PL000024	"PVC CLEANOUT 4"""
+42	3	PL	25	PL000025	PVC TEE REDUCER 3 X 2
+43	3	PL	26	PL000026	PVC TEE REDUCER 4 X 2
+44	3	PL	27	PL000027	PVC TEE REDUCER 4 X 3
+45	3	PL	28	PL000028	PVC WYE REDUCER 3 X 2
+46	3	PL	29	PL000029	PVC WYE REDUCER 4 X 2
+47	3	PL	30	PL000030	PVC WYE REDUCER 4 X 3
+48	3	PL	31	PL000031	"PVC TRAP 2"""
+49	3	PL	32	PL000032	PVC BUSHING REDUCER 3 X 2
+50	3	PL	33	PL000033	PVC BUSHING REDUCER 4 X 2
+51	3	PL	34	PL000034	PVC BUSHING REDUCER 4 X 3
+52	3	PL	35	PL000035	"PPR pipe ½"" x 13ft   "
+53	3	PL	36	PL000036	"PPR pipe 1"" x 13ft   "
+54	3	PL	37	PL000037	"½"" PPR elbow 90°   "
+55	3	PL	38	PL000038	"1"" PPR elbow 90°   "
+56	3	PL	39	PL000039	"½"" PPR tee   "
+57	3	PL	40	PL000040	"1"" PPR tee   "
+58	3	PL	41	PL000041	"½"" PPR coupling   "
+59	3	PL	42	PL000042	"1"" PPR coupling   "
+60	3	PL	43	PL000043	"½"" PPR end cap   "
+61	3	PL	44	PL000044	"1"" PPR end cap   "
+62	3	PL	45	PL000045	"½"" PPR elbow 90° female thread   "
+63	3	PL	46	PL000046	"1"" PPR elbow 90° female thread   "
+64	3	PL	47	PL000047	"½"" PPR elbow 90° male thread   "
+65	3	PL	48	PL000048	"1"" PPR elbow 90° male thread   "
+66	3	PL	49	PL000049	"½"" PPR tee male thread   "
+67	3	PL	50	PL000050	"1"" PPR tee male thread   "
+68	3	PL	51	PL000051	"½"" PPR tee female thread   "
+69	3	PL	52	PL000052	"1"" PPR tee female thread   "
+70	3	PL	53	PL000053	"½"" PPR male thread adapter   "
+71	3	PL	54	PL000054	"1"" PPR male thread adapter   "
+72	3	PL	55	PL000055	"½"" PPR female thread adapter   "
+73	3	PL	56	PL000056	"1"" PPR female thread adapter   "
+74	3	PL	57	PL000057	PPR tee reducer 1 x ½   
+75	3	PL	58	PL000058	PPR tee reducer 1 x ¾   
+76	3	PL	59	PL000059	PPR tee reducer ¾ x ½   
+77	3	PL	60	PL000060	UPVC 63mm   
+78	4	EL	1	EL000001	Conduit Pipe ½ 
+79	4	EL	2	EL000002	Junction Box 
+80	4	EL	3	EL000003	Utility Box 
+81	4	EL	4	EL000004	Solvent Cement 400cc 
+82	4	EL	5	EL000005	THHN #14 
+83	4	EL	6	EL000006	THHN #12 
+84	4	EL	7	EL000007	THHN # 10 
+85	4	EL	8	EL000008	THHN # 8 
+86	4	EL	9	EL000009	Panel Box 14 Branches 
+87	4	EL	10	EL000010	Breaker 60A 
+88	4	EL	11	EL000011	Breaker 15A 
+89	4	EL	12	EL000012	Breaker 20A 
+90	4	EL	13	EL000013	Breaker 30A 
+91	4	EL	14	EL000014	Single convenience outlet   
+92	4	EL	15	EL000015	Double convenience outlet   
+93	4	EL	16	EL000016	Weatherproof outlet   
+94	4	EL	17	EL000017	Exhaust fan   
+95	4	EL	18	EL000018	Panel board   
+96	4	EL	19	EL000019	Single switch   
+97	4	EL	20	EL000020	2-gang switch   
+98	4	EL	21	EL000021	3-gang switch   
+99	4	EL	22	EL000022	3-way switch   
+100	4	EL	23	EL000023	Circuit breaker: 200amps   
+101	4	EL	24	EL000024	Circuit breaker: 115amps   
+102	4	EL	25	EL000025	Circuit breaker: 100amps   
+103	4	EL	26	EL000026	Circuit breaker: 30amps   
+104	4	EL	27	EL000027	Circuit breaker: 20amps   
+105	4	EL	28	EL000028	#12 THHN wire   
+106	4	EL	29	EL000029	#14 THHN wire   
+107	4	EL	30	EL000030	#8 THHN wire   
+108	4	EL	31	EL000031	#10 THHN wire   
+109	4	EL	32	EL000032	Utility box   
+110	4	EL	33	EL000033	Junction box   
+111	4	EL	34	EL000034	"3/4"" flexible hose   "
+112	4	EL	35	EL000035	"1/2"" PVC conduit   "
+113	4	EL	36	EL000036	Electrical tape   
+114	4	EL	37	EL000037	Butane torch   
+115	4	EL	38	EL000038	2-spool service rack   
+116	5	FN	1	FN000001	blackscrew wood 3/4 
+117	5	FN	2	FN000002	"blackscrew wood 1"" "
+118	5	FN	3	FN000003	"blackscrew wood 1"" 1/4 "
+119	5	FN	4	FN000004	"blackscrew wood 1"" 1/2 "
+120	5	FN	5	FN000005	"blackscrew wood 2"" "
+121	5	FN	6	FN000006	"blackscrew wood 3"" "
+122	5	FN	7	FN000007	blackscrew metal  3/4 
+123	5	FN	8	FN000008	"blackscrew metal 1"" "
+124	5	FN	9	FN000009	"blackscrew metal 1"" 1/4 "
+125	5	FN	10	FN000010	"blackscrew metal  1"" 1/2 "
+126	5	FN	11	FN000011	"blackscrew metal  2"" "
+127	5	FN	12	FN000012	"blackscrew metal  3"" "
+128	5	FN	13	FN000013	Drill Bit 1/8 3mm 
+129	5	FN	14	FN000014	Drill Bit 3/32 2.5mm 
+130	5	FN	15	FN000015	Drill Bit 5/32 4mm 
+131	5	FN	16	FN000016	Drill Bit 7/64 7mm 
+132	5	FN	17	FN000017	Drill bit 9/64 9mm 
+133	5	FN	18	FN000018	Drill Bit 11/64 4.5mm 
+134	5	FN	19	FN000019	Drill Bit 3/16 5mm 
+135	5	FN	20	FN000020	Drill Bit 1/4 6.5mm 
+136	5	FN	21	FN000021	Drill Bit 5/16 8mm 
+137	5	FN	22	FN000022	Drill Bit 3/8 9.5mm 
+138	5	FN	23	FN000023	Drill Bit 1/2 13mm 
+139	5	FN	24	FN000024	Drill Bit 9/16 14mm 
+140	5	FN	25	FN000025	Drill Bit 5/8 16mm 
+141	5	FN	26	FN000026	Metal Stud 0.5 x 35mm x 2 in x 3m 
+142	5	FN	27	FN000027	Metal Stud 0.5 x 35mm x 3 in x 3m 
+143	5	FN	28	FN000028	Metal Stud 0.5 x 35mm x 4 in x 3m 
+144	5	FN	29	FN000029	Metal Track 0.5 x 35mm x 2 in x 3m 
+145	5	FN	30	FN000030	Metal Stud 0.5 x 35mm x 3 in x 3m 
+146	5	FN	31	FN000031	Metal Stud 0.5 x 35mm x 4 in x 3m 
+147	5	FN	32	FN000032	Metal Furring 45mm x 0.4mm x 5m 
+148	5	FN	33	FN000033	Carrying Channel 45mm x 0.7mm x 5m 
+149	5	FN	34	FN000034	Wall Angle 0.4mm x 3m x 10ft 
+150	5	FN	35	FN000035	Cross Tee 2ft 
+151	5	FN	36	FN000036	W Clip 
+152	5	FN	37	FN000037	Ficem Board 1/8 x 4ft x 8ft x 3.5mm
+153	5	FN	38	FN000038	Ficem Board 3/16 x 4ft x 8ft x 4.5mm
+154	5	FN	39	FN000039	Ficem Board 1.4 x 4ft x 8ft  x6mm
+155	5	FN	40	FN000040	Ficem Board 3/8 x 4ft x 8ft x 9mm
+156	5	FN	41	FN000041	Ficem Board 1/2 x 4ft x 8ft x 12mm
+157	5	FN	42	FN000042	Pvc Panel 
+158	5	FN	43	FN000043	Fluted Panel 
+159	5	FN	44	FN000044	J Clip 
+160	5	FN	45	FN000045	"Drawer Guide  12"" Soft Closing "
+161	5	FN	46	FN000046	"Drawer Guide 14"" Soft Closing "
+162	5	FN	47	FN000047	"Drawer Guide 16"" Soft Closing "
+163	5	FN	48	FN000048	"Drawer Guide 18"" Soft Closing "
+164	5	FN	49	FN000049	"Drawer Guide 20"" Soft Closing "
+165	5	FN	50	FN000050	Concealed Hinges Hydrolic  1 /2 /3  
+166	5	FN	51	FN000051	Rugby 300ml  
+167	5	FN	52	FN000052	Rugby 4liters 
+168	5	FN	53	FN000053	Stikwel   liter
+169	5	FN	54	FN000054	Stikwel   gal
+170	5	FN	55	FN000055	Easy Tite liter
+171	5	FN	56	FN000056	Easy Tite gal
+172	5	FN	57	FN000057	Solignum liter
+173	5	FN	58	FN000058	Solignum gal
+174	5	FN	59	FN000059	"Finishing Nail 1"""
+175	5	FN	60	FN000060	"Finishing Nail 1"" 1/2"
+176	5	FN	61	FN000061	"Finishing Nail 2"""
+177	5	FN	62	FN000062	"Finishing Nail 2"" 1/2"
+178	5	FN	63	FN000063	"Finishing Nail 3"""
+179	5	FN	64	FN000064	Laminated Marine Board 4ft x 8ft 
+180	5	FN	65	FN000065	Edge Band 
+181	5	FN	66	FN000066	Concrete Neutralizer liter
+182	5	FN	67	FN000067	Concrete Neutralizer gal
+183	5	FN	68	FN000068	Paint Thinner bottle
+184	5	FN	69	FN000069	Paint Thinner gal
+185	5	FN	70	FN000070	Sanding Sealer bottle 
+186	5	FN	71	FN000071	Sanding Sealer gal
+187	5	FN	72	FN000072	Lacquer Thinner bottle
+188	5	FN	73	FN000073	Lacquer Thinner gal
+189	5	FN	74	FN000074	Stripsol liter
+190	5	FN	75	FN000075	Stripsol gal
+191	5	FN	76	FN000076	Gloss Varnish 
+192	5	FN	77	FN000077	Wood Stain 
+193	5	FN	78	FN000078	Sanding Paper #80 9in x 11in
+194	5	FN	79	FN000079	Sanding Paper #100 9in x 11in
+195	5	FN	80	FN000080	Sanding Paper #120 9in x 11in
+196	5	FN	81	FN000081	Sanding Paper #150 9in x 11in
+197	5	FN	82	FN000082	Sanding Paper #180 9in x 11in
+198	5	FN	83	FN000083	Sanding Paper #200 9in x 11in
+199	5	FN	84	FN000084	Sanding Paper #240 9in x 11in
+200	5	FN	85	FN000085	Sanding Paper #400 9in x 11in
+201	5	FN	86	FN000086	Sanding Paper #800 9in x 11in
+202	5	FN	87	FN000087	Sanding Paper #1200 9in x 11in
+203	5	FN	88	FN000088	"Ecofor Wood 1"" x 2"" x 8ft"
+204	5	FN	89	FN000089	"Ecofor Wood 1"" x 4"" x 8ft"
+205	5	FN	90	FN000090	"Ecofor Wood 1"" x 6"" x 8ft"
+206	5	FN	91	FN000091	"Ecofor Wood 2"" x 2"" x 8ft"
+207	5	FN	92	FN000092	"Ecofor Wood 2"" x 3"" x 8ft"
+208	5	FN	93	FN000093	"Ecofor Wood 2"" x 4"" x 8ft"
+209	5	FN	94	FN000094	"Ecofor Wood 2"" x 6"" x 8ft"
+210	5	FN	95	FN000095	"Ecofor Wood 1"" x 2"" x 10ft"
+211	5	FN	96	FN000096	"Ecofor Wood 1"" x 4"" x 10ft"
+212	5	FN	97	FN000097	"Ecofor Wood 1"" x 6"" x 10ft"
+213	5	FN	98	FN000098	"Ecofor Wood 2"" x 2"" x 10ft"
+214	5	FN	99	FN000099	"Ecofor Wood 2"" x 3"" x 10ft"
+215	5	FN	100	FN000100	"Ecofor Wood 2"" x 4"" x 10ft"
+216	5	FN	101	FN000101	"Ecofor Wood 2"" x 6"" x 10ft"
+217	5	FN	102	FN000102	"Ecofor Wood 1"" x 2"" x 12ft"
+218	5	FN	103	FN000103	"Ecofor Wood 1"" x 4"" x 12ft"
+219	5	FN	104	FN000104	"Ecofor Wood 1"" x 6"" x 12ft"
+220	5	FN	105	FN000105	"Ecofor Wood 2"" x 2"" x 12ft"
+221	5	FN	106	FN000106	"Ecofor Wood 2"" x 3"" x 12ft"
+222	5	FN	107	FN000107	"Ecofor Wood 2"" x 4"" x 12ft"
+223	5	FN	108	FN000108	"Ecofor Wood 2"" x 6"" x 12ft"
+224	5	FN	109	FN000109	Gypsum Board 1/2 (12mm) x 4ft x 8ft
+225	5	FN	110	FN000110	Gypsum Board 3/8 (9mm)
+226	5	FN	111	FN000111	Surface on 4 Sides 1/2 x 1 x 8ft
+227	5	FN	112	FN000112	Surface on 4 Sides 1/2 x 2 x 8ft
+228	5	FN	113	FN000113	Surface on 4 Sides 1 x 1 x 8ft
+229	5	FN	114	FN000114	Surface on 4 Sides 1/2 x 1 x 10ft
+230	5	FN	115	FN000115	Surface on 4 Sides 1/2 x 2 x 10ft
+231	5	FN	116	FN000116	Surface on 4 Sides 1 x 1 x 10ft
+232	5	FN	117	FN000117	Surface on 4 Sides 1/2 x 1 x 12ft
+233	5	FN	118	FN000118	Surface on 4 Sides 1/2 x 2 x 12ft
+234	5	FN	119	FN000119	Surface on 4 Sides 1 x 1 x 12ft
+235	5	FN	120	FN000120	Fulatite liter
+236	5	FN	121	FN000121	Fulatite gal
+237	5	FN	122	FN000122	Moulded Door 70cm x 210cm x 40mm
+238	5	FN	123	FN000123	Moulded Door 80cm x 210cm x 40mm
+239	5	FN	124	FN000124	Moulded Door 90cm x 210cm x 40mm
+240	5	FN	125	FN000125	"Door Hinges 3"" x 3"""
+241	5	FN	126	FN000126	"Door Hinges 4"" x 4"""
+242	5	FN	127	FN000127	Door Jamb 2 x 4
+243	5	FN	128	FN000128	Door Jamb 2 x 5
+244	5	FN	129	FN000129	Door Jamb 2 x 6
+245	5	FN	130	FN000130	Skimcoat 
+246	5	FN	131	FN000131	Grout 
+247	5	FN	132	FN000132	Tile Spacer 2mm 
+248	5	FN	133	FN000133	"Flap Disc 4"" "
+249	5	FN	134	FN000134	"Diamond Disc 4"" "
+250	5	FN	135	FN000135	"Cutting Disc 4"" "
+251	5	FN	136	FN000136	Marine Plywood 1/4 x 4ft x 8ft
+252	5	FN	137	FN000137	Marine Plywood 1/8 x 4ft x 8ft
+253	5	FN	138	FN000138	Marine Plywood 3/4 x 4ft x 8ft
+254	5	FN	139	FN000139	Electrical Tape 
+255	5	FN	140	FN000140	"Masking Tape 1"""
+256	5	FN	141	FN000141	"Masking Tape 1/2 """
+257	5	FN	142	FN000142	"Masking Tape 3/4"""
+258	5	FN	143	FN000143	"Paint Brush  1"""
+259	5	FN	144	FN000144	"Paint Brush  1 1/2"""
+260	5	FN	145	FN000145	"Paint Brush  2"""
+261	5	FN	146	FN000146	"Paint Brush  4"""
+262	5	FN	147	FN000147	Acrytex Prime 
+263	5	FN	148	FN000148	Flat Latex 3701 
+264	5	FN	149	FN000149	Semi Gloss White Latex 
+265	5	FN	150	FN000150	Wall Putty 
+266	5	FN	151	FN000151	"4"" Baby Roller Foam "
+267	5	FN	152	FN000152	Mesh Tape 2 Inch 
+268	5	FN	153	FN000153	Blind Rivet 5/32  x ½ 

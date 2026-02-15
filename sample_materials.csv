@@ -1,0 +1,6 @@
+id,name,type,cost,quantity
+1,Steel Beam,Metal,150.50,100
+2,Concrete Mix,Material,45.00,250
+3,Wood Plank,Material,30.75,180
+4,Drywall Sheet,Material,12.50,500
+5,Glass Panel,Component,95.25,50
