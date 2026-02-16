@@ -59,8 +59,10 @@ if __name__ == "__main__":
         print("JSON data ready for submission to materialModule.py")
 
         newCategory = NewMaterialCategory() #create an instance of NewMaterialCategory class
-        newCategory.save_material_category(json_data)
-        print("✓ JSON data loaded successfully")        
+        # determine tenant for testing: prefer env var, otherwise use a local test tenant
+        tenant = os.getenv('TENANT_ID') or 'LOCAL_TEST_TENANT'
+        newCategory.save_material_category(json_data, tenant_id=tenant)
+        print("✓ JSON data loaded successfully")
         
 
 

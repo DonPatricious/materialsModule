@@ -1,6 +1,7 @@
 import psycopg
 
 
+
 class DatabaseConnection:
     def __init__(self, 
                  host="localhost", 
@@ -45,4 +46,12 @@ class DatabaseConnection:
         columns = [desc[0] for desc in cursor.description] if cursor.description else []
         cursor.close()
         return results, columns
+    
+    def executemany(self, query, params=None):
+        cursor = self.conn.cursor()
+        cursor.executemany(query, params)
+        self.conn.commit()
+        results = cursor.fetchall()
+        cursor.close()
+        return results
 

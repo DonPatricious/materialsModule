@@ -2,10 +2,30 @@ import pandas as pd
 import json
 import os #this is for prototyping purposes only.
 
+from dataBAseConn import DatabaseConnection #this is for prototyping purposes only. The actual database connection should be handled in a separate module.
 
-#constants: for prototyping purposes only. Data source must be from request payload.
+
+#-----------------------------
+# Environment Variables and Constants. This is for prototyping purposes only.
+#-----------------------------
+
+# Load environment variables from .env if python-dotenv is available
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except Exception:
+    # If python-dotenv is not installed, .env won't be loaded here.
+    # Production environments should set real env vars; this is for local testing.
+    pass
+#environment variables for tenant ID
+#the following env varibles are for prototyping purposes only.
+tenant_id = os.getenv('TENANT_ID')
+
 outputLocation = r'Output'
 outpudFilename = r'output_sampleMaterials.json'
+
+#-----------------------------
+
 
 # ----------------------------
 # Sub-module 1: New Material
@@ -61,7 +81,7 @@ class NewMaterialCategory:
     def __init__(self):
         self.df = None
 
-    def save_material_category(self, source):
+    def save_material_category(self, source, tenant_id=None):
             
         try:
             from io import StringIO
@@ -75,7 +95,6 @@ class NewMaterialCategory:
             print(df_materialCat)
             print("-------")
 
-            #return True
         except json.JSONDecodeError as e:
             print(f"Error: Invalid JSON format. {e}")
             return False
@@ -83,10 +102,9 @@ class NewMaterialCategory:
             print(f"Error loading data: {e}")
             return False
         
-        """
-        Processing the dataframe in preparation for insertion into the database.
-
-        """
+        #-----------------------------
+        # Processing the dataframe in preparation for insertion into the database.
+        #-----------------------------
 
         #adding a column called "DateAdded" with the current date and time
         df_materialCat['DateAdded'] = pd.Timestamp.now().date() # This is for prototyping only. Actual time should be the server time
@@ -98,3 +116,43 @@ class NewMaterialCategory:
         df_materialCat['IsActive'] = True
         print("Displaying the dataframe with the new boolean column")
         print(df_materialCat.head())
+
+        # Adding a column called "TenantID" with the tenant_id value passed to the method
+        # This is for prototyping purposes only.
+
+        df_materialCat['TenantID'] = tenant_id
+        print("Displaying the dataframe with the new Tenant ID column")
+        print(df_materialCat.head())
+
+        #-----------------------------
+        # saving dataframe to database.
+        #-----------------------------
+
+        # Using pycopg3, executemany will need a list of tuples.
+        # Converting the dataframe to a list of tuples is necessary.
+        # The next block could change based on the version of pycopg installed.
+
+        df_rows = [tuple(x) for x in df_materialCat.to_numpy()]
+
+        
+
+        try:
+            with DatabaseConnection() as db:
+                sql_query = """
+                    INSERT INTO "MaterialCategory" ("Category",
+                    "Prefix",
+                    "DateAdded",
+                    "IsActive",
+                    "TenantID"
+                    )
+                    VALUES (%s, %s, %s, %s, %s)
+                    RETURNING "Category"
+                """
+
+                db.executemany(sql_query, df_rows) #the list of tuples is pass as the second argument to executemany for batch insertion
+                print(f"✓ Successfully saved {len(df_rows)} material categories to the database.")
+
+        except Exception as e:
+            print(f"Error saving material categories to database: {e}") 
+
+        return True
