@@ -68,6 +68,7 @@ if __name__ == "__main__":
         print("Saving JSON data to file...")
         outputFilePath = os.path.join(outputLocation, outpudFilename)
         newMaterial.to_json(output_file_path=outputFilePath)
+
         
 
 
