@@ -46,42 +46,29 @@ outpudFilename = r'output_sampleMaterials.json'
 # Sub-module 1: New Material
 # ----------------------------
 class NewMaterial:
-    DEBUG = True
-    APP_NAME = "My Web App"
+    #auth classes here. For prototype, no need to define.
+    #permission classes here. For prototype, no need to define.
+
 
     def __init__(self):
         self.df = None
 
-    def save_new_material(self, source):
-        """Load data from a file path or data structure.
-        
-        Args:
-            source: Either a file path (str) or a Python dict/list/JSON string.
-        
-        Returns:
-            bool: True if successful, False otherwise.
-        """
+
+    def save_new_materials(self, source, tenant_id=None):
+
+
         try:
-            if isinstance(source, str) and source.endswith('.json'):
-                # Load from JSON file
-                self.df = pd.read_json(source)
-                if self.DEBUG:
-                    print(f"Loaded {len(self.df)} rows from {source}")
-            elif isinstance(source, str):
-                # Parse JSON string
-                data = json.loads(source)
-                self.df = pd.DataFrame(data)
-                if self.DEBUG:
-                    print(f"Loaded {len(self.df)} rows from JSON string")
-            else:
-                # Assume it's a dict or list
-                self.df = pd.DataFrame(source)
-                if self.DEBUG:
-                    print(f"Loaded {len(self.df)} rows from data structure")
-            return True
-        except FileNotFoundError:
-            print(f"Error: File '{source}' not found.")
-            return False
+            from io import StringIO
+            # Load from JSON string (wrap in StringIO to avoid FutureWarning)
+            self.df = pd.read_json(StringIO(source))
+            
+            #transfering dataframe to an intermediate variable for later use in database insertion
+            df_newmat = self.df
+            print("Material input has been received!") #checkpoint that this method is working
+            print("Outputting sample dataframe...")
+            print(df_newmat.head(10))
+            print("-------")
+
         except json.JSONDecodeError as e:
             print(f"Error: Invalid JSON format. {e}")
             return False
@@ -89,9 +76,23 @@ class NewMaterial:
             print(f"Error loading data: {e}")
             return False
 
-    # if the save_new_material method returns true, then proceed to save data to database
+        
+    
 
+    def __material_sequencer(cls):
+
+        #query
+
+
+
+
+        return None
+    
+
+    
 class NewMaterialCategory:
+    #auth classes here. For prototype, no need to define.
+    #permission classes here. For prototype, no need to define.
 
     def __init__(self):
         self.df = None
