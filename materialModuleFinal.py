@@ -131,6 +131,7 @@ class NewMaterialCategory:
         # Using pycopg3, executemany will need a list of tuples.
         # Converting the dataframe to a list of tuples is necessary.
         # The next block could change based on the version of pycopg installed.
+        # -------
 
         df_rows = [tuple(x) for x in df_materialCat.to_numpy()]
 
