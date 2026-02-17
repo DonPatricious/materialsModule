@@ -1,3 +1,18 @@
+"""
+Material module Prototype
+
+This prototype contains "Sub-modules" that are actually classes.
+
+Below are the list of those classes (Sub-modules):
+
+1. NewMaterial
+2. NewMaterialCategory
+3. MaterialCreator
+
+
+"""
+
+
 import pandas as pd
 import json
 import os #this is for prototyping purposes only.
