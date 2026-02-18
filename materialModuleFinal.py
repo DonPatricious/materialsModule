@@ -81,7 +81,18 @@ class NewMaterial:
 
     def __material_sequencer(cls):
 
-        #query
+        # Step 1: Get the unique category IDs on the list then store on a list
+
+        unique_catId = pd.unique() #list containing unique category ID
+
+
+        # Step 2: Query the last sequence for each material based on tenant and category
+
+        for x in unique_catId.iterrows():
+            
+
+        # Step 3: 
+
 
 
 
