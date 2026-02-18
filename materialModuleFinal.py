@@ -79,7 +79,7 @@ class NewMaterial:
         
     
 
-    def __material_sequencer(cls):
+    def __material_sequencer():
 
         # Step 1: Get the unique category IDs on the list then store on a list
 
@@ -88,16 +88,10 @@ class NewMaterial:
 
         # Step 2: Query the last sequence for each material based on tenant and category
 
-        for x in unique_catId.iterrows():
-            
-
-        # Step 3: 
+        #for x in unique_catId.iterrows():
 
 
-
-
-
-        return None
+        
     
 
     
